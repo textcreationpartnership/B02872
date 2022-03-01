@@ -1,0 +1,481 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good manners for schools, or, A paraphrase upon qui mihi, &amp;c. Done into English verse by O. Dykes, for the use of the grammar-school at the Academy in Chancery-Lane.</title>
+            <author>Dykes, Oswald, 1670?-1728.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02872</idno>
+            <idno type="STC">Wing D2967</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[213]</idno>
+            <idno type="EEBO-CITATION">99886975</idno>
+            <idno type="PROQUEST">ocm99886975</idno>
+            <idno type="VID">181537</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02872)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181537)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A1:1[216])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good manners for schools, or, A paraphrase upon qui mihi, &amp;c. Done into English verse by O. Dykes, for the use of the grammar-school at the Academy in Chancery-Lane.</title>
+                  <author>Dykes, Oswald, 1670?-1728.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J[ames]. Rawlins, for John Place at Furnivals-Inn-gate in Holborn,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>MDCC. [1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "Boys, that wou'd scholars be, your minds dispose".</note>
+                  <note>Printer's name from Wing CD-ROM, 1996.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Schools --  England --  Early works to 1800.</term>
+               <term>Etiquette for children and teenagers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:181537:1" rendition="simple:additions"/>
+            <head>GOOD MANNERS for SCHOOLS, Or, A PARAPHRASE upon QUI MIHI, &amp;c.</head>
+            <byline>Done into Engliſh Verſe by <hi>O. DYKES,</hi> For the Uſe of the Grammar-School at the Academy in <hi>Chancery-Lane.</hi>
+            </byline>
+            <lg>
+               <l>
+                  <hi>BOys,</hi> that wou'd <hi>Scholars</hi> be, your <hi>Minds</hi> diſpoſe</l>
+               <l>To learn <hi>Good Manners</hi> and obey <hi>theſe Laws.</hi>
+               </l>
+               <l>
+                  <hi>Riſe early,</hi> and ſhake off the drowſy Nod;</l>
+               <l>Then <hi>kneel</hi> you down, and humbly <hi>Pray</hi> to <hi>God.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Firſt, <hi>waſh</hi> your Hands and Face; then <hi>comb</hi> your <hi>Hair,</hi>
+               </l>
+               <l>And dreſs you with a neat and decent <hi>Air.</hi>
+               </l>
+               <l>Keep your <hi>Apparel</hi> clean from <hi>Ink</hi> or <hi>Stain,</hi>
+               </l>
+               <l>And naſty <hi>Spots</hi> of <hi>Dirt</hi> or <hi>Greaſe</hi> refrain:</l>
+               <l>Your <hi>Cloths</hi> not torn to <hi>Tatters</hi> ev'ry Day,</l>
+               <l>By ſtubborn <hi>Fighting,</hi> and your Ramping <hi>Play.</hi>
+               </l>
+               <lg>
+                  <l>Fly Slothfulneſs, and make away to <hi>School;</hi>
+                  </l>
+                  <l>And never play the <hi>Tardy-lingring</hi> Fool,</l>
+                  <l>That loſes both his <hi>Time</hi> and breaks my <hi>Rule.</hi>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>There, a <hi>Good morrow</hi> to your <hi>Maſter</hi> pay,</l>
+               <l>And greet your <hi>Fellows</hi> with a Happy Day.</l>
+               <lg>
+                  <l>
+                     <hi>Sit down,</hi> and your appointed <hi>Seat</hi> ne'er quit,</l>
+                  <l>Without <hi>Command,</hi> or <hi>Leave</hi> to vacate it,</l>
+                  <l>When <hi>Nature</hi> prompts you to refreſh your Wit.</l>
+               </lg>
+               <l>He's <hi>Higheſt</hi> ſtill who beſt performs his Part:</l>
+               <l>And underſtands his <hi>Leſſon</hi> beſt by Heart:</l>
+               <l>For <hi>Real Merit</hi> always muſt take <hi>Place,</hi>
+               </l>
+               <l>And Undeſerving <hi>Idle Boys</hi> diſgrace.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Pen, Ink</hi> and <hi>Paper,</hi> are ſuch uſeful <hi>Tools,</hi>
+               </l>
+               <l>As muſt be ready in the Lab'ring <hi>Schools,</hi>
+               </l>
+               <l>Fit for your Bus'neſs; But <hi>Good</hi> Pens, I mean;</l>
+               <l>Your Ink the <hi>Blackeſt,</hi> and your Paper <hi>Clean:</hi>
+               </l>
+               <l>That you may write your <hi>Maſter's Dictates</hi> Fair,</l>
+               <l>T'emprove your Learning and commend your Care;</l>
+               <l>Without one fulſom <hi>Fault</hi> or filthy <hi>Blot,</hi>
+               </l>
+               <l>Like a dull <hi>Sloven</hi> or an Idle <hi>Sot.</hi>
+               </l>
+               <lg>
+                  <l>But for good <hi>Precepts, little Books</hi> are fit;</l>
+                  <l>Fair Writing to <hi>looſe Papers</hi> ne'er commit:</l>
+                  <l>You ſhould preſerve, not throw away your Wit.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Weigh</hi> what you <hi>read;</hi> your <hi>Leſſon</hi> often <hi>Conn,</hi>
+               </l>
+               <l>Till you well know the <hi>meaning</hi> of what's done:</l>
+               <l>For chatt'ring, like a <hi>Parrot,</hi> Things by <hi>Rote,</hi>
+               </l>
+               <l>Is arrant <hi>Nonſenſe,</hi> and a mighty Fau't.</l>
+               <l>
+                  <hi>Conſult</hi> your <hi>Fellows</hi> and your Betters <hi>ask,</hi>
+               </l>
+               <l>Upon a difficult or doubtful Task;</l>
+               <l>By <hi>Doubts</hi> and <hi>Queſtions</hi> Knowledge is obtain'd,</l>
+               <l>Who nothing doubted, nothing ever gain'd.</l>
+               <lg>
+                  <l>Dull <hi>Block-heads</hi> ſtand, like thoughtleſs <hi>Statues,</hi> mute,</l>
+                  <l>That ſeek no <hi>Information</hi> in a <hi>Doubt,</hi>
+                  </l>
+                  <l>To know the Truth of Things beyond diſpute.</l>
+               </lg>
+               <l>Who ask no <hi>Queſtions</hi> and make no <hi>demand,</hi>
+               </l>
+               <l>Will never Learn, and never Underſtand.</l>
+            </lg>
+            <lg>
+               <l>Learn <hi>Wiſdom;</hi> and make what is taught <hi>your own;</hi>
+               </l>
+               <l>
+                  <hi>Oblivion</hi> will provoke an awful Frown.</l>
+               <l>To be <hi>inſtructed,</hi> and forget the Senſe,</l>
+               <l>Argues intolerable <hi>Negligence.</hi>
+               </l>
+               <l>It is in vain to teach a <hi>rambling</hi> Brain,</l>
+               <l>That never <hi>thinks,</hi> and nothing will <hi>retain.</hi>
+               </l>
+               <l>You muſt be <hi>mindful</hi> and <hi>attentive</hi> ſtill,</l>
+               <l>To hear your Maſter's Judgment and his Will.</l>
+               <l>All his <hi>Inſtructions</hi> and his <hi>Words</hi> muſt be</l>
+               <l>Laid up in <hi>Everlaſting Memory:</hi>
+               </l>
+               <l>For if what's <hi>told</hi> the <hi>heedleſs Boy,</hi> is <hi>loſt;</hi>
+               </l>
+               <l>He might as well have <hi>taught</hi> a Senſleſs <hi>Poſt.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Nothing's ſo <hi>Hard,</hi> ſo Crabbed and Abſtruſe</l>
+               <l>In a dark <hi>Author,</hi> or myſterious <hi>Muſe,</hi>
+               </l>
+               <l>But may be quickly overcome with Eaſe:</l>
+               <l>And <hi>difficulties,</hi> after <hi>Conqueſt,</hi> pleaſe.</l>
+               <l>
+                  <hi>Take pains;</hi> and Learning <hi>eaſy</hi> you will find,</l>
+               <l>By <hi>care</hi> and <hi>application</hi> of the Mind.</l>
+               <l>When you're ſo <hi>careful</hi> and <hi>induſtrious</hi> grown,</l>
+               <l>Knowledge and Glory will your <hi>Labour Crown.</hi>
+               </l>
+               <l>For as the <hi>Earth's</hi> uncultivated Soyl,</l>
+               <l>Without good <hi>Tillage</hi> and continual <hi>Toyl,</hi>
+               </l>
+               <l>Brings forth no hopeful <hi>Flow'rs</hi> nor Lovely <hi>Fruit;</hi>
+               </l>
+               <l>But all lies Waſt and Barren Ground about:</l>
+               <l>So <hi>Boys,</hi> that do not <hi>exerciſe</hi> their Senſe</l>
+               <l>With earneſt <hi>ſtudy</hi> and great <hi>diligence,</hi>
+               </l>
+               <l>For loſs of <hi>Time</hi> may juſtly be revil'd;</l>
+               <l>Their <hi>Parts</hi> are <hi>Fruitleſs,</hi> and their <hi>Wit</hi> grows <hi>Wild.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The <hi>Laws</hi> of <hi>ſpeaking</hi> you muſt nicely mind;</l>
+               <l>
+                  <hi>Pratling's</hi> impertinent and noiſy <hi>Wind.</hi>
+               </l>
+               <l>
+                  <hi>Govern</hi> the forward <hi>Tongue,</hi> and ſtill be free</l>
+               <l>From too much <hi>Babling</hi> and <hi>Loquacity.</hi>
+               </l>
+               <l>
+                  <hi>Clamour</hi> creates your <hi>Maſter</hi> mighty Pain;</l>
+               <l>Offends his <hi>Ear,</hi> and more diſturbs his <hi>Brain.</hi>
+               </l>
+               <l>
+                  <hi>Plying</hi> your <hi>Leſſon</hi> then, <hi>avoid all Noiſe;</hi>
+               </l>
+               <l>Speak with a <hi>Modeſt, Low, ſubmiſſive Voice:</hi>
+               </l>
+               <l>But <hi>ſaying</hi> to your <hi>Maſter,</hi> ſpeak <hi>aloud,</hi>
+               </l>
+               <l>To be diſtinctly heard and underſtood.</l>
+               <l>
+                  <hi>Learn</hi> at your <hi>Fingers Ends</hi> what e'er you get,</l>
+               <l>And ev'ry Word <hi>without your Book</hi> repeat.</l>
+               <l>
+                  <hi>Pronounce</hi> your <hi>Latin</hi> roundly; <hi>ſtamm'ring</hi> ſhun;</l>
+               <l>That common Vice, call'd <hi>Heſitation.</hi>
+               </l>
+               <l>Let no one <hi>prompt</hi> or tell you when you ſay;</l>
+               <l>Such fault'ring <hi>Repetitions</hi> ſpend the Day,</l>
+               <l>Make <hi>Leſſons</hi> long and tedious by delay.</l>
+               <l>All <hi>Prompting</hi> prejudices fooliſh <hi>Boys;</hi>
+               </l>
+               <l>The <hi>ſenſe</hi> confounds, and <hi>Memory</hi> deſtroys.</l>
+            </lg>
+            <lg>
+               <l>To ev'ry <hi>Queſtion</hi> let your <hi>Anſwer</hi> be</l>
+               <l>Modeſt, Ingenious, Pertinent and Free;</l>
+               <l>
+                  <hi>Wiſe anſwers</hi> will your <hi>commendation</hi> raiſe;</l>
+               <l>Advance your Learning, and deſerve great Praiſe.</l>
+               <l>
+                  <hi>Gabling</hi> too faſt or <hi>drawling out</hi> too ſlow,</l>
+               <l>Your Words, are two abhorr'd Extreams, you know,</l>
+               <l>Of <hi>ſpeaking well:</hi> Betwixt <hi>both Vices</hi> lye,</l>
+               <l>The <hi>grace</hi> of Speech, and <hi>common Decency.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>As often as occaſion bids you ſpeak,</l>
+               <l>It muſt be ſtill in <hi>Latin,</hi> or in <hi>Greek,</hi>
+               </l>
+               <l>As ev'ry <hi>Boy's capacity,</hi> among</l>
+               <l>Your <hi>Fellows;</hi> underſtands each diff'rent <hi>Tongue.</hi>
+               </l>
+               <lg>
+                  <l>But <hi>barb'rous Language</hi> and <hi>falſe Latin</hi> ſhun,</l>
+                  <l>Like an <hi>Infection</hi> ſpreading through the Town,</l>
+                  <l>This <hi>Vice</hi> is dangerous, and <hi>catching</hi> grown.</l>
+               </lg>
+               <l>
+                  <hi>Inſtruct</hi> your <hi>Fellows</hi> too, when they require,</l>
+               <l>And th' <hi>ignorant</hi> with better <hi>light</hi> inſpire;</l>
+               <l>Shew them in ev'ry <hi>dark</hi> and <hi>unknown Line,</hi>
+               </l>
+               <l>The great advantage of good Diſcipline.</l>
+               <l>Whoever <hi>teaches</hi> the <hi>unlearn'd,</hi> will find,</l>
+               <l>His own <hi>improvement</hi> in the others Mind,</l>
+               <lg>
+                  <l>And though <hi>he</hi> were the moſt <hi>unlearn'd,</hi> before;</l>
+                  <l>What he <hi>Imparts,</hi> like <hi>Char'ty</hi> to the Poor,</l>
+                  <l>Will both <hi>Confirm</hi> his Knowledge and <hi>increaſe</hi> his Store.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>But forward <hi>Babblers</hi> never imitate,</l>
+               <l>Who <hi>Barbariſm</hi> do confidently prate;</l>
+               <l>Talk <hi>Latin</hi> fluent; but groſs <hi>Smatt'rers</hi> be,</l>
+               <l>To the diſgrace of <hi>Roman Purity.</hi>
+               </l>
+               <l>The Silly'ſt <hi>Coxcomb</hi> of 'em all is Proud</l>
+               <l>Of being cry'd-up by the <hi>Barb'rous Crowd:</hi>
+               </l>
+               <l>As if <hi>Aſſurance</hi> Falſhood juſtifies,</l>
+               <l>And <hi>Popular Applauſe</hi> makes Ign'rance Wiſe.</l>
+               <l>If you would rightly know the <hi>Grammar Rules,</hi>
+               </l>
+               <l>And learn to ſpeak <hi>true Latin</hi> in the <hi>Schools,</hi>
+               </l>
+               <lg>
+                  <l>With greater <hi>Elegance</hi> and better <hi>Grace;</hi>
+                  </l>
+                  <l>You muſt more <hi>Learned Company</hi> embrace;</l>
+                  <l>Read the beſt <hi>Authors</hi> of the <hi>Latin</hi> Race.</l>
+               </lg>
+               <l>Study their Writings of the <hi>pureſt Note,</hi>
+               </l>
+               <l>One Eaſy Subjects for <hi>Good Breeding</hi> Taught.</l>
+               <l>
+                  <hi>Tully,</hi> and <hi>Terence,</hi> and great <hi>Virgil's</hi> fit,</l>
+               <l>T'employ your <hi>Youth</hi> and Exerciſe your <hi>Wit.</hi>
+               </l>
+               <l>Who never read their <hi>Famous Books,</hi> ne're ſaw</l>
+               <l>The <hi>Light of Learning,</hi> nor the <hi>Roman Law.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Some naughty Boys</hi> delight to ſpend their Times</l>
+               <l>In Sordid <hi>Trifles,</hi> or Notorious <hi>Crimes;</hi>
+               </l>
+               <l>Who ne'er to <hi>Virtue</hi> do their Minds apply;</l>
+               <l>Renounce all Goodneſs and Sobriety,</l>
+               <l>For a more <hi>lazy Life</hi> of Tempting <hi>Play,</hi>
+               </l>
+               <l>Which <hi>Scholars</hi> to <hi>Ill Courſes</hi> does betray.</l>
+               <l>
+                  <hi>Others</hi> are better <hi>Fed</hi> then <hi>Taught</hi> at Home;</l>
+               <l>Grow to their <hi>Fellows</hi> Rude and Troubleſome;</l>
+               <l>Diſturb the <hi>Studious</hi> with their Hands or Feet,</l>
+               <l>And never will be <hi>Quiet</hi> in their Seat.</l>
+               <l>
+                  <hi>Others</hi> again do boaſt themſelves <hi>well-Born,</hi>
+               </l>
+               <l>Inferiours <hi>Hector,</hi> and <hi>Revile</hi> with Scorn.</l>
+               <l>But their Illuſtrious <hi>Birth</hi> and Noble <hi>Blood,</hi>
+               </l>
+               <l>Can ne'er make <hi>Pride</hi> or ſuch <hi>Ill-Manners</hi> Good:</l>
+               <lg>
+                  <l>And they will no <hi>Reſpect of Perſons</hi> find,</l>
+                  <l>With a <hi>Juſt Maſter</hi> and <hi>Impartial Mind,</hi>
+                  </l>
+                  <l>To all <hi>Diſtinctions,</hi> but of <hi>Merit,</hi> Blind.</l>
+               </lg>
+               <l>Such Vile <hi>Examples</hi> and ſuch ill-bred <hi>Fools,</hi>
+               </l>
+               <l>You muſt not <hi>Follow</hi> in well-govern'd Schools;</l>
+               <l>For fear of ſuch <hi>Correction</hi> as the Wiſe</l>
+               <l>Have thought Convenient to puniſh <hi>Vice.</hi>
+               </l>
+               <lg>
+                  <l>You muſt not <hi>Buy,</hi> nor <hi>Sell,</hi> nor give one Croſs;</l>
+                  <l>Nor Mony <hi>Lend,</hi> nor <hi>Change,</hi> nor Things <hi>Ingroſs,</hi>
+                  </l>
+                  <l>To reap Advantage by Another's Loſs.</l>
+               </lg>
+               <l>
+                  <hi>Mony's</hi> the Root of Evil and Diſgrace,</l>
+               <l>And makes fond <hi>Boys</hi> Extravagantly Baſe.</l>
+               <l>But what Ingenuous <hi>Education</hi> brings,</l>
+               <l>Are gen'rous and Unmercenary Things.</l>
+            </lg>
+            <lg>
+               <l>Rude <hi>Brawling, Giggling,</hi> and wild <hi>Noiſe</hi> decline,</l>
+               <l>Baniſh'd to Frantick <hi>Bedlam's</hi> Diſcipline.</l>
+               <l>Loud <hi>Laughter, Scoffing,</hi> and <hi>Reproach</hi> forſake;</l>
+               <l>They breed <hi>Ill Blood</hi> and Mad <hi>Diſtraction</hi> make.</l>
+               <l>Lewd <hi>Quarrels,</hi> little <hi>Lyes,</hi> and <hi>Pilf'ring Crimes</hi>
+               </l>
+               <l>Of wicked Boys to <hi>Newgate</hi> ſent betimes,</l>
+               <l>Condemn for fatal Qualities, portend</l>
+               <l>Some growing <hi>Miſchief,</hi> or ſome Diſmal <hi>End.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Your <hi>Common Chat</hi> muſt always be ſecure,</l>
+               <l>From <hi>Language</hi> that's Immodeſt or Impure.</l>
+               <lg>
+                  <l>Speak not one Word that's <hi>Smutty</hi> or <hi>Prophane;</hi>
+                  </l>
+                  <l>But filthy Talk and Vile Diſcourſe refrain,</l>
+                  <l>May <hi>Virtue</hi> Teint or <hi>Reputation</hi> Stain.</l>
+               </lg>
+               <l>Obſerv't, as certain as you draw your Breath,</l>
+               <l>That ev'ry <hi>Tongue</hi> has Pow'r of <hi>Life</hi> and <hi>Death.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Of Monſtrous <hi>Faults</hi> and Horrid <hi>Sins</hi> beware;</l>
+               <l>In Converſation neither <hi>Curſe</hi> nor <hi>Swear.</hi>
+               </l>
+               <l>For 'tis a Foul Abominable Vice</l>
+               <l>To give <hi>Ill Language</hi> to your <hi>Enemies.</hi>
+               </l>
+               <l>And with <hi>Reproachful Words</hi> to treat your <hi>Friends,</hi>
+               </l>
+               <l>Is the <hi>Ingratitude</hi> of <hi>Human Fiends.</hi>
+               </l>
+               <l>But to <hi>Prophane</hi> the Sacred Name of <hi>GOD,</hi>
+               </l>
+               <l>Can never <hi>Mercy</hi> find, nor 'ſcape the <hi>Rod.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Remember this unalterable Rule,</l>
+               <l>To keep the Faithful Secrets of the School:</l>
+               <l>For <hi>Treachery</hi> and <hi>Telling Tales</hi> abroad,</l>
+               <l>Incur Diſpleaſure of the <hi>Angry Rod.</hi>
+               </l>
+               <l>Therefore, <hi>Good Boys,</hi> obſerve, where'er you go,</l>
+               <l>Great Government, and Manly Conduct ſhow.</l>
+               <lg>
+                  <l>Your Books and all your Things in <hi>Order</hi> keep:</l>
+                  <l>By <hi>Care,</hi> this Satisfaction you will reap;</l>
+                  <l>No <hi>Apprehenſions</hi> can diſturb your <hi>Sleep.</hi>
+                  </l>
+               </lg>
+               <l>For when the bus'neſs of the <hi>School</hi> you've done,</l>
+               <l>You'll go to <hi>Bed</hi> with Recreation,</l>
+               <l>And <hi>Riſe</hi> again both unconcern'd and Gay,</l>
+               <l>For th' <hi>Exerciſes</hi> of the coming Day.</l>
+            </lg>
+            <lg>
+               <l>In ſhort, you muſt conſult your <hi>Maſter's</hi> Eaſe,</l>
+               <l>And for your Life do nothing may diſpleaſe;</l>
+               <l>Provoke his <hi>Anger,</hi> or diſturb his <hi>Peace.</hi>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>J. Rawlins,</hi> for JOHN PLACE at <hi>Furnivals-Inn-gate</hi> in <hi>Holborn,</hi> MDCC. Price 3 <hi>d.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
